@@ -14,3 +14,9 @@ Hello! I'm Shavkat, a passionate programming enthusiast and a student at PDP Uni
 - ⚡ Fun fact: I speak Uzbek, Russian, and a little bit of English!
 
 Looking forward to connecting and learning from the GitHub community!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shavkat07&hide=scss,&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shavkat07&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
